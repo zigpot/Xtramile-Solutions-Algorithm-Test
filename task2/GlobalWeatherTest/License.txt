@@ -1,0 +1,6 @@
+This app is designed and developed by UsamaAhmad751 usamaahmad.azurewebsites.net
+Available on Github only for Contribution. If you want to do some contribution or have some better suggestion give me a pull request and commit it. I will warmly appreciate your contribution. Thanks for reading.
+Have a nice Day!
+Regards
+UsamaAhmad751
+Usamaahmad751@gmail.com 
